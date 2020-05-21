@@ -1,0 +1,25 @@
+*{
+		box-sizing: border-box;
+
+}
+#caja1{
+	width: 85%;
+	height: 860px;
+	background-color: #326AAE;
+	float: left;
+	border:8px solid black;
+}
+#caja2{
+	width: 15%;
+	height: 500px;
+	background-color: #C83A38;
+	float: left;
+	border: 8px solid black;
+}
+#caja3{
+	width: 15%;
+	height: 360px;
+	background-color: #72519C;
+	float: left;
+	border: 8px solid black;
+}

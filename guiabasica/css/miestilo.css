@@ -1,0 +1,32 @@
+#caja1{
+	width:1500px;
+	height:50px;
+	background-color:#3772B8;
+	float:left;
+	border:8px solid black;
+	padding:10px;
+}
+#caja2{
+	width:1500px;
+	height:50px;
+	background-color:#9A302A;
+	float:left;
+	border:8px solid black;
+	padding:10px;
+	}
+
+	#caja3{
+	width:1500px;
+	height:400px;
+	background-color:#72529D;
+float:left;
+	border:8px solid black;
+	padding:10px;}
+
+	#caja4{
+	width:1500px;
+	height:50px;
+	background-color:#E27A21;
+float:left;
+	border:8px solid black;
+	padding:10px;}

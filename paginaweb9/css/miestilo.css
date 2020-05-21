@@ -1,0 +1,99 @@
+#color{
+	color:pink;
+	font-family:Baskerville Old Face;
+	background-repeat:repeat;}
+body{
+	background-color: #231f20;
+	height: 1000px;
+}
+#caja1{
+	background-color: orange;
+	width: 300px;
+	height: 30px;
+	margin: 20px;
+}
+#caja2{
+	background-color: grey;
+	width: 460px;
+	height: 15px;
+	margin: 20px;
+}
+#caja3{
+	background-color: grey;
+	width: 460px;
+	height: 15px;
+    margin: 20px;
+}
+#caja4{
+	background-color: white;
+	width: 150px;
+	height: 160px;
+    margin: 20px;
+    float: left;
+}
+#caja5{
+	background-color: #6A6666;
+	width:  1600px;
+	height: 150px;
+    margin: 20px;
+    float: left;
+}
+#caja6{
+	background-color: white;
+	width: 150px;
+	height: 160px;
+    margin: 20px;
+    float: left;
+}
+#caja7{
+	background-color: #6A6666;
+	width:  1600px;
+	height: 150px;
+    margin: 20px;
+    float: left;
+}
+#caja8{
+	background-color: white;
+	width: 150px;
+	height: 160px;
+    margin: 20px;
+    float: left;
+}
+#caja9{
+	background-color: #6A6666;
+	width: 1600px;
+	height: 150px;
+    margin: 20px;
+    float: left;
+}
+#caja10{
+	background-color: #6A6666;
+	width: 1800px;
+	height:200px;
+    margin: 20px;
+    float: left;
+}
+#caja11{
+	background-color: grey;
+	width: 500px;
+	height: 10px;
+	margin: 8px;
+	float: left;
+}
+#caja12{
+	background-color: grey;
+	width: 500px;
+	height: 10px;
+	margin: 8px;
+	float: left;
+}
+
+#e{
+	display: flex;
+	float: left;
+	width: 295px;
+	height: 70%;
+	margin-top: 10px;
+	columns: 50px;
+	color: white;
+}
